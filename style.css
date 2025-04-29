@@ -3,7 +3,7 @@ h1{
 }
 
 p{
-    background-color: rgba(255, 228, 196, 0.5); /* bisque with 50% opacity */
+    background-color: rgba(255, 228, 196, 0.6); /* bisque with 60% opacity */
 }
 .navbar ul{
     list-style-type: none;
