@@ -10,3 +10,7 @@ p{
 footer{
     color: white;
 }
+
+* {
+    font-family: "sans-serif"; /* Replace "Your Desired Font" with the actual font name */
+}
