@@ -1,6 +1,10 @@
 h1{
     color:white;
 }
+
+p{
+    background-color: rgba(255, 228, 196, 0.5); /* bisque with 50% opacity */
+}
 .navbar ul{
     list-style-type: none;
     background-color:beige;
